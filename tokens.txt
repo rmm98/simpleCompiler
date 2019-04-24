@@ -1,0 +1,1 @@
+dm(){di,i=n,i=n,i=n,i;k(i<n){i=i+i;}}
